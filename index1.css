@@ -1,3 +1,13 @@
 h1{
-    color: green;
+    color: brown;
+    /* background-color: deeppink; */ background-image: linear-gradient(deeppink, coral, blueviolet);
+    text-decoration: wavy;
+    text-align: center;
+}
+p{
+    background-color: yellow;
+    color: darkblue;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
 }
